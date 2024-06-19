@@ -12,7 +12,7 @@ Este projeto é parte do curso de desenvolvimento web e consiste na criação de
 - CSS3 Intermediário: Estilização do site, focando em layouts responsivos, design moderno e técnicas avançadas de CSS.
 
 ## Preview
-https://nunesgustavoo.github.io/ProjetoChaleHotel/
+- https://nunesgustavoo.github.io/ProjetoChaleHotel/
 
 ## Contato
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
